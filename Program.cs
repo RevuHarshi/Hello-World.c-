@@ -11,6 +11,7 @@ namespace Inheritance
         public void DisplayOne()
         {
             Console.WriteLine("Eggs");
+            Console.WriteLine("hi");
         }
     }
     class Caterpillar : Eggs
