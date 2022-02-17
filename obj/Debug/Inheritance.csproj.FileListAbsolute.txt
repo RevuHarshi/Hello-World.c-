@@ -1,0 +1,7 @@
+C:\Users\adminvm.adminvm\source\repos\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\adminvm.adminvm\source\repos\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\adminvm.adminvm\source\repos\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\adminvm.adminvm\source\repos\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\adminvm.adminvm\source\repos\Inheritance\obj\Debug\Inheritance.pdb
